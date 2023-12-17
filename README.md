@@ -10,4 +10,4 @@ Aims to deduce the correlation between:
 * Failures in approach to ungrasp position
 * Failures in motion with part
 
-and a given matrix of force, torque values.
+and a given matrix of force, torque values using a variety of machine learning approaches.
